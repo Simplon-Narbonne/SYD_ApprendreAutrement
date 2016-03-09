@@ -22,26 +22,22 @@
     + "_personne_" pour profil
     + "_maison_" pour accueil
     + "_livre ouvert_" pour les cours
-    + 
 
 - **page accueil :**
     - _en premier :_
         - inscription ou connexion
         - vidéo de présentation
         - but visé et utilité du site
-        - 
     - _ensuite sélection du compte enfant :_
         - si compte(s) enfant(s) déjà enregistré(s) alors choisir avec lequel avancé
         - si aucun compte enfant crée, en créer un
     - _des que compte enfant choisi montrer l’évolution de SYD :_
         - montrer le trajet effectuer
         - ses besoins (nourriture, boissons, ...)
-        - 
 - **page cours :**
     - sélection du niveau de difficulté des exercices avec la classe (= 4ème, ...)
     - sélection de la matière où progresser (= math, français, ...)
     - sélection de jeux pour la distraction ou détente
-    - 
 
 - **page profil :**
     - aperçu de la progression de l'enfant dans chaque matiere avec **_"barre de puissance"_**
@@ -50,7 +46,6 @@
         - suivre les actualisé choisie
         - progression de l'enfant en plus détailler
         - possibilité de contacter les professeurs en MP
-    -
 
 ### ?) Langages informatiques utilisés
 ---

@@ -1,5 +1,3 @@
-# SYD_ApprendreAutrement
-
 # PROJET JULIE'S SCHOOL
 ---
 ---
@@ -30,8 +28,8 @@
         - but visé et utilité du site
     - _ensuite sélection du compte enfant :_
         - si compte(s) enfant(s) déjà enregistré(s) alors choisir avec lequel avancé
-        - si aucun compte enfant crée, en créer un
-    - _des que compte enfant choisi montrer l’évolution de SYD :_
+        - si aucun compte enfant crée, formulaire de creation de compte enfant
+    - dès que compte enfant choisi montrer l’évolution de SYD :
         - montrer le trajet effectuer
         - ses besoins (nourriture, boissons, ...)
 - **page cours :**
@@ -46,6 +44,15 @@
         - suivre les actualisé choisie
         - progression de l'enfant en plus détailler
         - possibilité de contacter les professeurs en MP
+
+##### _Idées WordPress_
+---
+- faire un plugin :
+    + pour les enfants et les accompagnants
+    + pour la connexion à un compte
+    + 
+- integrer le code pour le slide de page en page
+- 
 
 ### ?) Langages informatiques utilisés
 ---

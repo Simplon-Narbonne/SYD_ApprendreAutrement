@@ -1,8 +1,24 @@
 # PROJET JULIE'S SCHOOL
 ---
 ---
+### 1) Objectifs du site
+---
 
-### 1) Idées pour le site
++ **_Amélioration des résultats scolaires :_**
+    + excercices differents en fonction des difficultes ou troubes de l'apprentissage de l'enfant
++ **_Soutien psychologique :_**
+    + faire des animation en fonction de la reussite ou l'echec de l'enfant
+    + guide dans la partie parent pour soutenir comme il faut l'enfant sur le site
+    + faire une pub du site sur tous les reseaux sociaux pour agrandir la communaute
++ **_etre en phase avec l’Education Nationale :_**
+    + suivis de l'avancer de l'enfant dans tous les domaine d'apprentissage
+    + en fonction des echec de l'enfant faire diminuer la difficulté des exercices
+    + encourager l'enfant a refaire les exercices si besoin de plus d'apprentissage
++ **_Apprendre autrement :_**
+    + varier les methodes des exercices en fonction 
+    + mettre en confiance l'enfant et l'accompagnant avec l'utilisation simpliste du site
+    + faire en sorte que les cours soit apprecier et aimer par tous pour une evolution collective entre eleve et accompagnant
+### 2) Idées pour le site
 
 ##### _Idées pour le visuel_
 ---
@@ -53,6 +69,7 @@
     + 
 - integrer le code pour le slide de page en page
 - 
+
 
 ### ?) Langages informatiques utilisés
 ---

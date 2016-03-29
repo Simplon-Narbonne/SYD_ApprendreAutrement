@@ -11,14 +11,17 @@
 
 + **_Amélioration des résultats scolaires :_**
     + excercices differents en fonction des difficultes ou troubes de l'apprentissage de l'enfant
+
 + **_Soutien psychologique :_**
     + faire des animation en fonction de la reussite ou l'echec de l'enfant
     + guide dans la partie parent pour soutenir comme il faut l'enfant sur le site
     + faire une pub du site sur tous les reseaux sociaux pour agrandir la communaute
+
 + **_Etre en phase avec l’Education Nationale :_**
     + suivis de l'avancer de l'enfant dans tous les domaine d'apprentissage
     + en fonction des echec de l'enfant faire diminuer la difficulté des exercices
     + encourager l'enfant a refaire les exercices si besoin de plus d'apprentissage
+
 + **_Apprendre autrement :_**
     + varier les methodes des exercices en fonction 
     + mettre en confiance l'enfant et l'accompagnant avec l'utilisation simpliste du site
@@ -49,12 +52,14 @@
         - inscription ou connexion
         - vidéo de présentation
         - but visé et utilité du site
+    
     - _ensuite sélection du compte enfant :_
         - si compte(s) enfant(s) déjà enregistré(s) alors choisir avec lequel avancé
         - si aucun compte enfant crée, formulaire de creation de compte enfant
     - dès que compte enfant choisi montrer l’évolution de SYD :
         - montrer le trajet effectuer
         - ses besoins (nourriture, boissons, ...)
+    
 - **page cours :**
     - sélection du niveau de difficulté des exercices avec la classe (= 4ème, ...)
     - sélection de la matière où progresser (= math, français, ...)
@@ -73,6 +78,7 @@
 - faire un plugin :
     + pour les enfants et les accompagnants
     + pour la connexion à un compte
+
 - integrer le code pour le slide de page en page
 
 ---

@@ -1,6 +1,9 @@
 # PROJET JULIE'S SCHOOL
 ---
 ---
+lien vers le trello: https://trello.com/b/PDtqNWpT/projet-julie-school
+---
+---
 ### 1) Objectifs du site
 ---
 

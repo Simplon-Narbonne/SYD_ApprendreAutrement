@@ -71,7 +71,6 @@
 - faire un plugin :
     + pour les enfants et les accompagnants
     + pour la connexion à un compte
-    + 
 - integrer le code pour le slide de page en page
 
 ---

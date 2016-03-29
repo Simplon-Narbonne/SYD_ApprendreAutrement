@@ -73,9 +73,8 @@
     + pour la connexion à un compte
     + 
 - integrer le code pour le slide de page en page
-- 
 
-
+---
 ### ?) Langages informatiques utilisés
 ---
 - JS :

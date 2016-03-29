@@ -1,7 +1,7 @@
 # PROJET JULIE'S SCHOOL
 ---
 ---
-lien vers le trello: https://trello.com/b/PDtqNWpT/projet-julie-school
+[Trello], [Moqups]
 ---
 ---
 ### 1) Objectifs du site
@@ -21,9 +21,7 @@ lien vers le trello: https://trello.com/b/PDtqNWpT/projet-julie-school
     + varier les methodes des exercices en fonction 
     + mettre en confiance l'enfant et l'accompagnant avec l'utilisation simpliste du site
     + faire en sorte que les cours soit apprecier et aimer par tous pour une evolution collective entre eleve et accompagnant
-
 ---
-
 ### 2) Idées pour le site
 
 ##### _Idées pour le visuel_
@@ -93,6 +91,8 @@ NANGUET et RAFFIN
 
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
 
-   [AngularJS]: <http://angularjs.org>
+   [Trello]: <https://trello.com/b/PDtqNWpT/projet-julie-school>
+   
+   [Moqups]: <https://app.moqups.com/kurtlecter11100@gmail.com/b5CHHDXWjf/view>
    
    [PlDb]: <https://github.com/joemccann/dillinger/tree/master/plugins/dropbox/README.md>

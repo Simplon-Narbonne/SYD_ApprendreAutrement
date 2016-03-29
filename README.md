@@ -13,7 +13,7 @@
     + faire des animation en fonction de la reussite ou l'echec de l'enfant
     + guide dans la partie parent pour soutenir comme il faut l'enfant sur le site
     + faire une pub du site sur tous les reseaux sociaux pour agrandir la communaute
-+ **_etre en phase avec l’Education Nationale :_**
++ **_Etre en phase avec l’Education Nationale :_**
     + suivis de l'avancer de l'enfant dans tous les domaine d'apprentissage
     + en fonction des echec de l'enfant faire diminuer la difficulté des exercices
     + encourager l'enfant a refaire les exercices si besoin de plus d'apprentissage

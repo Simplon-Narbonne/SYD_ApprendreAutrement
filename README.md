@@ -21,6 +21,7 @@
     + varier les methodes des exercices en fonction 
     + mettre en confiance l'enfant et l'accompagnant avec l'utilisation simpliste du site
     + faire en sorte que les cours soit apprecier et aimer par tous pour une evolution collective entre eleve et accompagnant
+
 ---
 ### 2) Idées pour le site
 

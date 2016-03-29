@@ -1,7 +1,6 @@
 # PROJET JULIE'S SCHOOL
 
 ---
----
 
 [Trello], [Moqups]
 

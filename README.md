@@ -2,7 +2,7 @@
 ---
 ---
 
-[Trello], [Moqups]
+[Trello], [Moqups], [FramaBoard]
 
 ---
 ---
@@ -23,7 +23,7 @@
     + encourager l'enfant a refaire les exercices si besoin de plus d'apprentissage
 
 + **_Apprendre autrement :_**
-    + varier les methodes des exercices en fonction 
+    + varier les methodes des exercices en fonction
     + mettre en confiance l'enfant et l'accompagnant avec l'utilisation simpliste du site
     + faire en sorte que les cours soit apprecier et aimer par tous pour une evolution collective entre eleve et accompagnant
 
@@ -42,7 +42,7 @@
 + application = tout supports pour accessibilité facile
 + rendre le cours plus "fun" avec développement dragon
 
-- **logo pour menu :** 
+- **logo pour menu :**
     + "_personne_" pour profil
     + "_maison_" pour accueil
     + "_livre ouvert_" pour les cours
@@ -52,14 +52,14 @@
         - inscription ou connexion
         - vidéo de présentation
         - but visé et utilité du site
-    
+
     - _ensuite sélection du compte enfant :_
         - si compte(s) enfant(s) déjà enregistré(s) alors choisir avec lequel avancé
         - si aucun compte enfant crée, formulaire de creation de compte enfant
     - dès que compte enfant choisi montrer l’évolution de SYD :
         - montrer le trajet effectuer
         - ses besoins (nourriture, boissons, ...)
-    
+
 - **page cours :**
     - sélection du niveau de difficulté des exercices avec la classe (= 4ème, ...)
     - sélection de la matière où progresser (= math, français, ...)
@@ -68,7 +68,7 @@
 - **page profil :**
     - aperçu de la progression de l'enfant dans chaque matiere avec **_"barre de puissance"_**
     - possibilité de passer d'un compte enfant a un autre
-    - possibilité de passer en _"mode parent"_ pour : 
+    - possibilité de passer en _"mode parent"_ pour :
         - suivre les actualisé choisie
         - progression de l'enfant en plus détailler
         - possibilité de contacter les professeurs en MP
@@ -94,12 +94,14 @@
 ---
 Fait par
 ----
-GRAVEZ, NANGUET et RAFFIN
+Edouard GRAVEZ dit edwar, Jérôme NANGUET dit Djee, Alexis RAFFIN dit kurtlecter et David TARCZEWSKI dit ektor.
 
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
 
    [Trello]: <https://trello.com/b/PDtqNWpT/projet-julie-school>
-   
+
    [Moqups]: <https://app.moqups.com/kurtlecter11100@gmail.com/b5CHHDXWjf/view>
-   
+
    [PlDb]: <https://github.com/joemccann/dillinger/tree/master/plugins/dropbox/README.md>
+
+   [FramaBoard]: <https://dtarcz.framaboard.org/>

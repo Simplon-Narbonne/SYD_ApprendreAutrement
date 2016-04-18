@@ -1,36 +1,15 @@
-<!DOCTYPE html>
 <html>
-  <head>
-    <meta charset="utf-8">
-    <title></title>
-  </head>
-  <body>
+    <head><title>Bienvenue sur Julie's School</title></head>
+    <body>
+        <h1>Bienvenue sur Julie's School</h1>
+        <h2>veuillez vous inscrire :</h2>
+        <form name="inscription" method="post" action="insertion_parent.php">
+            Entrez votre nom : <input type="text" name="lastname"/> <br/>
+            Entrez votre prénom : <input type="text" name="firstname"/><br/>
+            Entrez votre E mail : <input type="text" name="email"/><br/>
 
 
-
-// Formulaire et ses variables
-
-<?php
-    $lastname=$_POST['lastname'];
-    $firstname=$_POST['firstname'];
-    $email=$_POST['email'];
-    echo 'Bonjour '. $lastname. ' '.$firstname.'<br/>Bienvenue sur votre espace peronnel !';
-?>
-
-// Insertion des données
-
-<?php
-try
-{
-	$bdd = new PDO('mysql:host=localhost;dbname=juliesschool;charset=utf8', 'root', 'ecodair');
-}
-catch(Exception $e)
-{
-        die('Erreur : '.$e->getMessage());
-}
-
-// On ajoute une entrée dans la table coach
-$bdd->exec('INSERT INTO coach (lastname,firstname,email) VALUES('.$lastname.' , '.$firstname.' , '.$email.')');
-?>
-</body>
+            <input type="submit" name="valider" value="OK"/>
+        </form>
+    </body>
 </html>

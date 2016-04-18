@@ -1,0 +1,10 @@
+@font-face{
+  font-family: 'LexiaReadable-Regular';
+  src: url('LexiaReadable-Regular.eot');
+  src: local(x),
+       url('LexiaReadable-Regular.ttf');
+}
+
+  p{
+    font-family: 'LexiaReadable-Regular';
+  }

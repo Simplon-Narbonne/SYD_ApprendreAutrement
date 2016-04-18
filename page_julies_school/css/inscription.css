@@ -1,0 +1,19 @@
+html{
+  width: 100%;
+}
+
+table{
+  margin: auto;
+}
+
+#champs{
+  width: 100%;
+}
+
+#selecteur{
+  width: 102.5%;
+}
+
+label{
+  float: right;
+}

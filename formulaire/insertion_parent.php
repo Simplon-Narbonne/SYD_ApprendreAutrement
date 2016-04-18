@@ -22,7 +22,7 @@
 <?php
 try
 {
-	$bdd = new PDO('mysql:host=localhost;dbname=juliesschool;charset=utf8', 'root', 'ecodair');
+	$bdd = new PDO('mysql:host=51.255.196.206;dbname=juliesschool;charset=utf8', 'edouard', 'KHum8ES');
 }
 catch(Exception $e)
 {

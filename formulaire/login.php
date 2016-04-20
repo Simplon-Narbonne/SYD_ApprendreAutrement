@@ -53,7 +53,7 @@
                   <!--  Titre formulaire -->
                 <div id="titrForm"class="col-md-4 col-md-offset-4">Formulaire d'inscription</div>
                   <!--  Titre formulaire -->
-                <div id="titrForm"class="col-md-8 col-md-offset-2">
+                <div id="InputForm"class="col-md-8 col-md-offset-2">
                   <form name="inscription" method="post" action="insertion_parent.php">
                       Entrez votre nom : <input type="text" name="lastname"/> <br/>
                       Entrez votre prénom : <input type="text" name="firstname"/><br/>

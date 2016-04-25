@@ -14,16 +14,23 @@ H1{
   border-width: 1px;
   margin-top: 14px;
 }
-#InputForm{
+#inputDark{
+  height: 52px;
+  background-color: #6E6363;
+  font-family: ubuntu, sans-serif;
+  font-size: 12px;
+  padding: 14px;
+  color: #F2EBEB;
+  text-align: left;
+  margin-top: 1px;
+  }
+#inputLight{
+  height: 52px;
   background-color: #F2EBEB;
   font-family: ubuntu, sans-serif;
   font-size: 12px;
   padding: 14px;
-  color: #6E6363;
+  color: #3A3131;
   text-align: left;
-  border-radius: 14px;
-  border-color: #6E6363;
-  border-style: solid;
-  border-width: 1px;
-  margin-top: 14px;
+  margin-top: 1px;
 }

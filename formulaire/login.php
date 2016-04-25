@@ -31,63 +31,79 @@ Entrez votre E mail : <input type="text" name="email"/><br/>
 </html> -->
 <html lang="fr">
 <head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-  <title>Opentuto - Bootstrap 3</title>
+<title>Opentuto - Bootstrap 3</title>
 
-  <link rel="stylesheet" href="assets/jquery-ui-custom/jquery.min.js" media="screen" title="no title" charset="utf-8">
+<link rel="stylesheet" href="assets/jquery-ui-custom/jquery.min.js" media="screen" title="no title" charset="utf-8">
 
-  <link rel="stylesheet" href="assets/css/style.css">
-  <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
-  <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.css">
+<link rel="stylesheet" href="assets/css/style.css">
+<link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
+<link rel="stylesheet" href="assets/bootstrap/css/bootstrap.css">
 
 </head>
 
 <body>
-  <h1>Bienvenue sur Julie's School</h1>
+<h1>Bienvenue sur Julie's School</h1>
 
 
-  <div class="container"> <!--  Début de corps de la plage -->
+<div class="container"> <!--  Début de corps de la plage -->
 
-    <div class="row"> <!-- Div "ROW1" principale-->
+  <div class="row"> <!-- Div "ROW1" principale-->
 
-      <!--  Div Titre formulaire -->
-      <div id="titrForm"class="col-md-4 col-md-offset-4">Formulaire d'inscription</div>
-      <!--  Titre formulaire -->
-      <div id="InputForm"class="col-md-8 col-md-offset-2">
-        <form name="inscription" method="post" action="insertion_parent.php">
-          <!-- Div contenant deuxième "ROW2" -->
-          <div class="col-md-10 col-offset-1">
-            <!-- Deuxième "ROW2" Grilles imbriquées -->
-            <div class="row">
-              <div id="inputDark" class="col-md-4 col-offset-2">
-
-              </div>
-
-
+    <!--  Div Titre formulaire -->
+    <div id="titrForm"class="col-md-4 col-md-offset-4">Formulaire d'inscription</div>
+    <!--  Titre formulaire -->
+    <div id="InputForm"class="col-md-8 col-md-offset-2">
+      <form name="inscription" method="post" action="insertion_parent.php">
+        <!-- Div contenant deuxième "ROW2" -->
+        <div class="col-md-10 col-md-offset-1">
+          <!-- Deuxième "ROW2" Grilles imbriquées -->
+          <div class="row">
+            <div id="inputDark" class="col-md-5 col-md-offset-1" >
+              <label for="lastname">Entrez votre nom : </label>
             </div>
+            <div id="inputDark" class="col-md-5">
+              <input type="text" name="lastname" id="lastname" />
+            </div>
+            <div id="inputLight" class="col-md-5 col-md-offset-1" >
+              <label for="firstname">Entrez votre prénom : </label>
+            </div>
+            <div id="inputLight" class="col-md-5">
+              <input type="text" name="firstname" id="firstname" />
+            </div>
+            <div id="inputDark" class="col-md-5 col-md-offset-1">
+              <label for="email">Entrez votre E mail : </label>
+            </div>
+            <div id="inputDark" class="col-md-5">
+              <input type="text" name="email" id="email" />
+            </div>
+            <div class="col-md-2 col-md-offset-5">
+              <button class="btn btn-default" type="submit" name="valider">OK</button>
+            </form>
+            </div>
+
 
           </div>
 
-            <label for="lastname">Entrez votre nom : </label>
-            <input type="text" name="lastname" id="lastname" /> <br/>
-
-            <label for="firstname">Entrez votre prénom : </label>
-            <input type="text" name="firstname" id="firstname" /><br/>
-
-            <label for="email">Entrez votre E mail : </label>
-            <input type="text" name="email" id="email" /><br/>
+        </div>
 
 
-            <input type="submit" name="valider" value="OK"/>
-          </form>
-      </div>
-      <!-- Fermeture de la ligne -->
+
+
+
+
+
+
+
+
     </div>
-    <!--  Fin du corps de texte -->
+    <!-- Fermeture de la ligne -->
   </div>
+  <!--  Fin du corps de texte -->
+</div>
 
-  </body>
+</body>
 
 </html>

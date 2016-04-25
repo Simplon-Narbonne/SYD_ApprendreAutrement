@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <!-- <html>
 <head>
 <title>Bienvenue sur Julie's School</title>

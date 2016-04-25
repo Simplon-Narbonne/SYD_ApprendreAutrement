@@ -5,13 +5,13 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <title>Opentuto - Bootstrap 3</title>
+    <title>Bienvenue sur Julie's School</title>
 
-    <link rel="stylesheet" href="assets/jquery-ui-custom/jquery.min.js" media="screen" title="no title" charset="utf-8">
+    <link rel="stylesheet" href="assets/jquery-ui-custom/jquery.min.js" >
 
-    <link rel="stylesheet" href="assets/css/style.css" media="screen" title="no title" charset="utf-8">
-    <link rel="stylesheet" href="assets/bootstrap/bootstrap.min.css" media="screen" title="no title" charset="utf-8">
-    <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.css" media="screen" title="no title" charset="utf-8">
+    <link rel="stylesheet" href="assets/css/style.css" >
+    <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css" >
+    <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.css" >
 
   </head>
 
@@ -45,7 +45,7 @@
              </div>
         <!--  Fin du corps de texte -->
         </div>
-        
+
   </body>
 
 </html>

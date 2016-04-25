@@ -45,6 +45,8 @@
   </head>
 
   <body>
+            <h1>Bienvenue sur Julie's School</h1>
+
 
     <div class="container"> <!--  Début de corps de la plage -->
 

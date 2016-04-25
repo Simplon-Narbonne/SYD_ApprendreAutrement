@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <!-- <html>
 <head>
 <title>Bienvenue sur Julie's School</title>
@@ -62,22 +63,32 @@ Entrez votre E mail : <input type="text" name="email"/><br/>
             <!-- Deuxième "ROW2" Grilles imbriquées -->
             <div class="row">
               <div id="inputDark" class="col-md-4 col-offset-2">
-                
+
               </div>
 
 
             </div>
 
           </div>
-          Entrez votre nom : <input type="text" name="lastname"/> <br/>
-          Entrez votre prénom : <input type="text" name="firstname"/><br/>
-          Entrez votre E mail : <input type="text" name="email"/><br/>
-          <input type="submit" name="valider" value="OK"/>
-        </form>
+
+            <label for="lastname">Entrez votre nom : </label>
+            <input type="text" name="lastname" id="lastname" /> <br/>
+
+            <label for="firstname">Entrez votre prénom : </label>
+            <input type="text" name="firstname" id="firstname" /><br/>
+
+            <label for="email">Entrez votre E mail : </label>
+            <input type="text" name="email" id="email" /><br/>
+
+
+            <input type="submit" name="valider" value="OK"/>
+          </form>
       </div>
       <!-- Fermeture de la ligne -->
     </div>
     <!--  Fin du corps de texte -->
   </div>
-</body>
+
+  </body>
+
 </html>

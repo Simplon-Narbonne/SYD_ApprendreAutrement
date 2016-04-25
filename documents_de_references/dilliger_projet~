@@ -1,0 +1,77 @@
+# PROJET JULIE'S SCHOOL
+---
+---
+
+### 1) Idées pour le site
+
+##### _Idées pour le visuel_
+---
++ choix du fil d'actualite a suivre
++ choix interface
++ limiter le nbre d'enfant par compte accompagnant à 3 pour 10€ par mois
++ possibilite de créer/supprimer un compte enfant a tous moment
++ enquete de satisfaction en fin d'utilisation du produit (fin de mois)
++ imager le plus possible le site pour plus de facilite de comprehension
++ video de presentation du site
++ application = tout supports pour accessibilite facile
++ rendre le cours plus "fun" avec developpement dragon
+
+- **logo pour menu :** 
+    + "_personne_" pour profil
+    + "_maison_" pour acceuil
+    + "_livre ouvert_" pour les cours
+    + 
+
+- **page acceuil :**
+    - _en premier :_
+        - inscription ou connexion
+        - video de presentation
+        - but visé et utilite du site
+        - 
+    - _ensuite selection du compte enfant :_
+        - si compte(s) enfant(s) deja enregistré(s) alors choisir avec lequel avancé
+        - si aucun compte enfant crée, en créer un
+    - _des que compte enfant choisi montrer l'evolution de SYD :_
+        - montrer le trajet effectuer
+        - ses besoins (nourriture, boissons, ...)
+        - 
+- **page cours :**
+    - selection du niveau de difficulte des exercices avec la classe (= 4ème, ...)
+    - selection de la matiere où progresser (= math, francais, ...)
+    - selection de jeux pour la distraction ou detente
+    - 
+
+- **page profil :**
+    - apercu de la progression de l'enfant dans chaque matiere avec **_"barre de puissance"_**
+    - possibilite de passer d'un compte enfant a un autre
+    - possibilite de passer en _"mode parent"_ pour : 
+        - suivre les actualiés choisie
+        - progression de l'enfant en plus detailler
+        - possibliter de contacter les professeurs en MP
+    -
+
+### ?) Languages informatiques utilisés
+---
+- JS :
+    - utilisation de slide pour passer d'une page a l'autre
+    - mobilite de SYD
+
+- PHP :
+    - base de donnée pour les logins
+
+### 0. Choses à modifiées
+---
+- ce putain de wi-fi dans la grande salle ou il beug
+- pas assez de monde pour faire le projet
+- dillinger car les saves beugs
+
+
+Fait par
+----
+des gens pas content et enervé
+
+[//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
+
+   [AngularJS]: <http://angularjs.org>
+   
+   [PlDb]: <https://github.com/joemccann/dillinger/tree/master/plugins/dropbox/README.md>

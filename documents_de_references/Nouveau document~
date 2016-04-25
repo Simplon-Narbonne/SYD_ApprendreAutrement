@@ -1,0 +1,55 @@
+# PROJET JULIE'S SCHOOL
+---
+---
+
+- choix du fil d'actu suivi
+- choix interface
+- ajout utilisateur enfant
+- limiter le nbre d'enfant par compte parent
+- 10€/mois pour jusqu'a 3 enfants par compte parent
+- enquete de satisfaction en fin d'utilisation du produit (fin de mois)
+- imager le plus possible le site pour plus de facilite de comprehension
+- video de presentation du site
+- application = tout supports pour accessibilite facile
+- rendre le cours plus "fun" avec developpement dragon
+
+
+---
+### 1. Idées site
+---
+
+- 3 bloc de 800x600 cote a cote
+- "zoom" sur le bloc du milieu (acceuil)
+- fleche de changement de bloc en JS pour que l'utilisateur esoit obliger de coller la paroie pour l'apparition des fleches
+- bouton menu avec : 
+    - "_personne_" pour profil
+    - "_maison_" pour acceuil
+    - "_livre ouvert_" pour les cours
+- page cours:
+    - selection du niveau de difficulte des exercices avec la classe (ex: CE1, 4ème, ...)
+
+- css : 
+    - mettre un **_width: 100%_** pour le body et un **_width: 100%_** pour la taille de chaque bloc
+    - mettre un scroll off
+
+
+# Dillinger
+Dillinger is a cloud-enabled,
+  - Type some Markdown on the left
+> or formatting instructions.
+### Version
+* [AngularJS] - HTML enhanced for web apps!
+```sh
+$ npm i -g gulp
+```
+
+License
+----
+
+**Free Software, Hell Yeah!**
+
+[//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
+
+   [AngularJS]: <http://angularjs.org>
+   
+   [PlDb]: <https://github.com/joemccann/dillinger/tree/master/plugins/dropbox/README.md>

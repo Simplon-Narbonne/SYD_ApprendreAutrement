@@ -32,21 +32,30 @@
             <!-- Deuxième "ROW2" Grilles imbriquées -->
             <div class="row">
               <div id="inputDark" class="col-md-5 col-md-offset-1" >
-                <label for="lastname">Entrez votre nom : </label>
+                <label for="civilite">Civilité : </label>
               </div>
-              <div id="inputDark" class="col-md-5">
-                <input class="form-control input-xs" type="text" name="lastname" id="lastname" />
+              <div id="inputDark"class="form-group col-md-5">
+                <select class="form-control" id="sel1">
+                  <option>Madame</option>
+                  <option>Monsieur</option>
+                </select>
               </div>
               <div id="inputLight" class="col-md-5 col-md-offset-1" >
-                <label for="firstname">Entrez votre prénom : </label>
+                <label for="lastname">Entrez votre nom : </label>
               </div>
               <div id="inputLight" class="col-md-5">
-                <input class="form-control input-xs" type="text" name="firstname" id="firstname" />
+                <input class="form-control input-xs" type="text" name="lastname" id="lastname" />
               </div>
-              <div id="inputDark" class="col-md-5 col-md-offset-1">
-                <label for="email">Entrez votre E mail : </label>
+              <div id="inputDark" class="col-md-5 col-md-offset-1" >
+                <label for="firstname">Entrez votre prénom : </label>
               </div>
               <div id="inputDark" class="col-md-5">
+                <input class="form-control input-xs" type="text" name="firstname" id="firstname" />
+              </div>
+              <div id="inputLight" class="col-md-5 col-md-offset-1">
+                <label for="email">Entrez votre E mail : </label>
+              </div>
+              <div id="inputLight" class="col-md-5">
                 <input class="form-control input-xs" type="text" name="email" id="email" />
               </div>
               <div class="col-md-6 col-md-offset-3">
@@ -55,7 +64,7 @@
             </div>
 
           </div>
-        </div>       
+        </div>
       </div>
       <!-- Fermeture de la ligne -->
     </div>

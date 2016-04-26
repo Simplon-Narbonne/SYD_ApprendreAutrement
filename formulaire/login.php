@@ -35,7 +35,7 @@
                 <label for="civilite">Civilité : </label>
               </div>
               <div id="inputDark"class="form-group col-md-5">
-                <select class="form-control" id="sel1">
+                <select class="form-control inpunt-xs" id="civilite">
                   <option>Madame</option>
                   <option>Monsieur</option>
                 </select>

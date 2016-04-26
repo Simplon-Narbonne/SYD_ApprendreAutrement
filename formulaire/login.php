@@ -54,20 +54,8 @@
               </form>
             </div>
 
-
           </div>
-
-        </div>
-
-
-
-
-
-
-
-
-
-
+        </div>       
       </div>
       <!-- Fermeture de la ligne -->
     </div>

@@ -4,7 +4,14 @@
     $lastname=$_POST['lastname'];
     $firstname=$_POST['firstname'];
     $email=$_POST['email'];
-    echo 'Bonjour '.$civilite. ' '. $lastname. ' '.$firstname.'<br/>Bienvenue sur votre espace peronnel !';
+    $password=$_POST['password'];
+    $passwordConfirm=$_POST['password'];
+    $codepostal=$_POST['codepostal'];
+    $kidsNb=$_POST['kidsNb'];
+//On crypte le password et sa confirmation
+    $password_crypter = crypt($password, "SYDSYD");
+    $passwordConfirm_crypter=crypt($passwordConfirm,"SYDSYD");
+    echo 'Bonjour '.$civilite. ' '. $lastname. ' '.$firstname.' '.$password_crypter.' '.$passwordConfirm_crypter.' '.$codepostal.' '.$kidsNb.'<br/>Bienvenue sur votre espace peronnel !';
 ?>
 
 <?php
@@ -15,7 +22,7 @@ $bdd = new PDO('mysql:host=51.255.196.206;dbname=juliesschool', 'edouard', 'KHum
 //$bdd = new PDO('mysql:host=localhost;dbname=juliesschool;charset=utf8', 'root', 'ecodair');
 $bdd->setAttribute( PDO::ATTR_ERRMODE, PDO::ERRMODE_WARNING );
 // On ajoute une entrée dans la table coach
-$bdd->exec('INSERT INTO coach (civilite, lastname, firstname, email) VALUES ("'.$civilite.'" , "'.$lastname.'" , "'.$firstname.'" , "'.$email.'")');
+$bdd->exec('INSERT INTO coach (civilite, lastname, firstname, email, password, passwordConfirm, codepostal, kidsNb) VALUES ("'.$civilite.'" , "'.$lastname.'" , "'.$firstname.'" , "'.$email.'" , "'.$password_crypter.'", "'.$passwordConfirm_crypter.'", "'.$codepostal.'", "'.$kidsNb.'")');
 }
 catch(Exception $e)
 {

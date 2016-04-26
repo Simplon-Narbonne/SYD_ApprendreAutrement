@@ -34,8 +34,8 @@
               <div id="inputDark" class="col-md-5 col-md-offset-1" >
                 <label for="civilite">Civilité : </label>
               </div>
-              <div id="inputDark"class="form-group col-md-5">
-                <select class="form-control inpunt-xs" id="civilite">
+              <div id="inputDark"class="col-md-5">
+                <select class="form-control inpunt-xs" name="civilite" id="civilite">
                   <option>Madame</option>
                   <option>Monsieur</option>
                 </select>
@@ -58,18 +58,55 @@
               <div id="inputLight" class="col-md-5">
                 <input class="form-control input-xs" type="text" name="email" id="email" />
               </div>
+              <div id="inputDark" class="col-md-5 col-md-offset-1" >
+                <label for="password">Entrez votre mot de passe : </label>
+              </div>
+              <div id="inputDark" class="col-md-5">
+                <input class="form-control input-xs" type="password" name="password" id="password" />
+              </div>
+              <div id="inputDark" class="col-md-5 col-md-offset-1" >
+                <label for="passwordConfirm">Confirmez votre mot de passe : </label>
+              </div>
+              <div id="inputDark" class="col-md-5">
+                <input class="form-control input-xs" type="password" name="passwordConfirm" id="passwordConfirm" />
+              </div>
+              <div id="inputLight" class="col-md-5 col-md-offset-1">
+                <label for="codepostal">code postal :</label>
+              </div>
+              <div id="inputLight" class="col-md-5">
+                <input class="form-control input-xs" type="text" name="codepostal" id="codepostal" />
+              </div>
+              <div id="inputDark" class="col-md-5 col-md-offset-1" >
+                <label for="kidsNb">Nombre d'enfant(s) à charge : </label>
+              </div>
+              <div id="inputDark"class="col-md-5">
+                <select class="form-control inpunt-xs" name="kidsNb" id="kidsNb">
+                  <option>1</option>
+                  <option>2</option>
+                  <option>3</option>
+                  <option>4</option>
+                  <option>5</option>
+                  <option>6</option>
+                  <option>7</option>
+                  <option>8</option>
+                  <option>9</option>
+                  <option>10</option>
+                </select>
+              </div>
               <div class="col-md-6 col-md-offset-3">
-                <button class="btn btn-defaut btn-sm btn-block" type="submit" name="valider">OK</button>
+                <button id="bouton"class="btn btn-defaut btn-sm btn-block" type="submit" name="valider">S'inscrire</button>
               </form>
             </div>
 
           </div>
         </div>
       </div>
-      <!-- Fermeture de la ligne -->
+      <!-- Fin du "ROW2 -->
     </div>
-    <!--  Fin du corps de texte -->
+    <!--  Fin du "ROW" principal -->
   </div>
+
+  <br><br><br>
 
 </body>
 
